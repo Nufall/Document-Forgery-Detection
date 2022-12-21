@@ -1,0 +1,16 @@
+decision_tree scored 87.88% on alb_id
+
+decision_tree scored 57.58% on aze_passport
+
+decision_tree scored 52.94% on est_id
+
+decision_tree scored 57.58% on fin_id
+
+decision_tree scored 54.55% on grc_passport
+
+decision_tree scored 100.00% on lva_passport
+
+decision_tree scored 59.38% on rus_internalpassport
+
+decision_tree scored 67.86% on svk_id
+

@@ -1,0 +1,16 @@
+ada_boost scored 90.91% on alb_id
+
+ada_boost scored 57.58% on aze_passport
+
+ada_boost scored 52.94% on est_id
+
+ada_boost scored 54.55% on fin_id
+
+ada_boost scored 100.00% on grc_passport
+
+ada_boost scored 100.00% on lva_passport
+
+ada_boost scored 56.25% on rus_internalpassport
+
+ada_boost scored 71.43% on svk_id
+

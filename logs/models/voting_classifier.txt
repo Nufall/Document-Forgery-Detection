@@ -1,0 +1,16 @@
+voting_classifier scored 93.94% on alb_id
+
+voting_classifier scored 54.55% on aze_passport
+
+voting_classifier scored 52.94% on est_id
+
+voting_classifier scored 60.61% on fin_id
+
+voting_classifier scored 54.55% on grc_passport
+
+voting_classifier scored 100.00% on lva_passport
+
+voting_classifier scored 56.25% on rus_internalpassport
+
+voting_classifier scored 71.43% on svk_id
+

@@ -1,0 +1,16 @@
+svm scored 100.00% on alb_id
+
+svm scored 100.00% on aze_passport
+
+svm scored 100.00% on est_id
+
+svm scored 96.97% on fin_id
+
+svm scored 100.00% on grc_passport
+
+svm scored 100.00% on lva_passport
+
+svm scored 100.00% on rus_internalpassport
+
+svm scored 100.00% on svk_id
+

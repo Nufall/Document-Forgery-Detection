@@ -1,0 +1,2 @@
+ada_boost scored 56.11% on E:\University\Semester 6\Grad\forgery detection\forgery detection neural network\datasets\midv-2020-scanned\experiment 2
+

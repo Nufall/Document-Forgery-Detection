@@ -1,0 +1,2 @@
+random_forest_classifier scored 69.44% on E:\University\Semester 6\Grad\forgery detection\forgery detection neural network\datasets\midv-2020-scanned\experiment 2
+

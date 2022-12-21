@@ -1,0 +1,16 @@
+naive_bayes scored 100.00% on alb_id
+
+naive_bayes scored 100.00% on aze_passport
+
+naive_bayes scored 94.12% on est_id
+
+naive_bayes scored 96.97% on fin_id
+
+naive_bayes scored 100.00% on grc_passport
+
+naive_bayes scored 100.00% on lva_passport
+
+naive_bayes scored 100.00% on rus_internalpassport
+
+naive_bayes scored 92.86% on svk_id
+

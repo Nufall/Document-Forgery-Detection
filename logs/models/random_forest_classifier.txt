@@ -1,0 +1,16 @@
+random_forest_classifier scored 87.88% on alb_id
+
+random_forest_classifier scored 54.55% on aze_passport
+
+random_forest_classifier scored 52.94% on est_id
+
+random_forest_classifier scored 54.55% on fin_id
+
+random_forest_classifier scored 54.55% on grc_passport
+
+random_forest_classifier scored 100.00% on lva_passport
+
+random_forest_classifier scored 56.25% on rus_internalpassport
+
+random_forest_classifier scored 67.86% on svk_id
+

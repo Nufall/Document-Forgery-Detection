@@ -1,0 +1,2 @@
+naive_bayes scored 75.00% on E:\University\Semester 6\Grad\forgery detection\forgery detection neural network\datasets\midv-2020-scanned\experiment 2
+
